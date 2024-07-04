@@ -1,0 +1,6 @@
+[
+    {"question": "What is the speed of light?", "subject": "Physics", "topic": "Waves", "difficulty": "Easy", "marks": 5},
+    {"question": "Explain Newton's second law of motion", "subject": "Physics", "topic": "Mechanics", "difficulty": "Medium", "marks": 10},
+    {"question": "Describe the theory of relativity", "subject": "Physics", "topic": "Relativity", "difficulty": "Hard", "marks": 15}
+
+]
